@@ -1,6 +1,6 @@
 # jar
 `mvn package`  
-`java -jar target/selenide-skel-1.0.0-jar-with-dependencies.jar`  
+`java -jar target/skel-selenide-1.0.0-jar-with-dependencies.jar`  
 
 # url
 [The Central Repository](http://search.maven.org/)  
